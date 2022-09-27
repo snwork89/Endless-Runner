@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b0231e492cb80a64e9ea86684d99e245
+guid: 26f71d3f536e97e47ab9c42ba6be3a80
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -129,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_0
+      name: Gui_0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 172
-        width: 146
-        height: 162
+        x: 133
+        y: 686
+        width: 590
+        height: 649
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11f8d09fdf9a9d44ab400adbf4f596ee
-      internalID: -123487843
+      spriteID: b8ae183fba4f1e44ab5bc4b830de182f
+      internalID: 80795285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_1
+      name: Gui_1
       rect:
         serializedVersion: 2
-        x: 214
-        y: 176
-        width: 115
-        height: 147
+        x: 853
+        y: 704
+        width: 462
+        height: 591
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6fa7427aa8fde7458ca007f825dcbc1
-      internalID: -119529960
+      spriteID: dd1fad5e1fa95c34eb75ab921149ceda
+      internalID: 1971006735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_2
+      name: Gui_2
       rect:
         serializedVersion: 2
-        x: 363
-        y: 176
-        width: 145
-        height: 147
+        x: 1450
+        y: 704
+        width: 585
+        height: 591
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,20 +185,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff1d33ca5b25f4347bbc6439f3621710
-      internalID: -1374661926
+      spriteID: 82fd1f2038d8c1742a6de70aacbfeb26
+      internalID: -1213387517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_3
+      name: Gui_3
       rect:
         serializedVersion: 2
-        x: 545
-        y: 176
-        width: 110
-        height: 157
+        x: 2177
+        y: 704
+        width: 446
+        height: 631
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f7ed986ddf859a4e989dfe09a50fdc2
-      internalID: 1299157967
+      spriteID: 3e3653f870ddfbd448d96d86afc18576
+      internalID: -2042367154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_4
+      name: Gui_4
       rect:
         serializedVersion: 2
-        x: 52
-        y: 88
-        width: 275
-        height: 48
+        x: 205
+        y: 353
+        width: 1102
+        height: 190
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,20 +227,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ab6675b323fdfc4aaeabc0c1de5f8af
-      internalID: -1100769392
+      spriteID: e1a742b19d0504f429a10092decefa82
+      internalID: -1698685792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_5
+      name: Gui_5
       rect:
         serializedVersion: 2
-        x: 381
-        y: 29
-        width: 110
-        height: 128
+        x: 1521
+        y: 117
+        width: 443
+        height: 510
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,20 +248,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27ab20819e609d44989fec31a8328450
-      internalID: 1737373180
+      spriteID: 18208415c26dcfd4e8d35805704ac616
+      internalID: 1031633600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_6
+      name: Gui_6
       rect:
         serializedVersion: 2
-        x: 555
-        y: 125
-        width: 39
-        height: 39
+        x: 2221
+        y: 497
+        width: 158
+        height: 159
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,20 +269,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aafd56b78de841c4ba4f7f0b24b910d7
-      internalID: 1637369095
+      spriteID: be40f5575ad5d5042a94b32c1ef6c6a2
+      internalID: -993290879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_7
+      name: Gui_7
       rect:
         serializedVersion: 2
-        x: 606
-        y: 125
-        width: 39
-        height: 39
+        x: 2421
+        y: 497
+        width: 158
+        height: 159
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,20 +290,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 953d622f03539bf45a156fef3903695b
-      internalID: 1724977175
+      spriteID: c995bcd9046e23745aaa3204652ec2a7
+      internalID: -1502595949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_8
+      name: Gui_8
       rect:
         serializedVersion: 2
-        x: 555
-        y: 78
-        width: 39
-        height: 38
+        x: 2221
+        y: 309
+        width: 158
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +311,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a506f420937b974cae0948e1bdb5bb7
-      internalID: -1152699028
+      spriteID: 79ab588a75da95e49a1a9ff3a035abb2
+      internalID: -1303847893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_9
+      name: Gui_9
       rect:
         serializedVersion: 2
-        x: 606
-        y: 78
-        width: 39
-        height: 39
+        x: 2421
+        y: 309
+        width: 158
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,20 +332,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4ab006e11e41a347a214649cc216df1
-      internalID: 1422240314
+      spriteID: cfe5451a87ba05d4b984fc9e665732b8
+      internalID: -26144939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_10
+      name: Gui_10
       rect:
         serializedVersion: 2
-        x: 51
-        y: 29
-        width: 90
-        height: 28
+        x: 205
+        y: 117
+        width: 359
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +353,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30dfee362c7ffb14f9431ae0c78a7de9
-      internalID: -515618214
+      spriteID: 6aed43be66aff154b8519197832db1e2
+      internalID: 2063729215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_11
+      name: Gui_11
       rect:
         serializedVersion: 2
-        x: 145
-        y: 29
-        width: 89
-        height: 28
+        x: 577
+        y: 117
+        width: 358
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,20 +374,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bab063903e50df4a91e6c8a436323c9
-      internalID: 1388162718
+      spriteID: 984c79f75df898544a2ff20ba5854f7d
+      internalID: 837804526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_12
+      name: Gui_12
       rect:
         serializedVersion: 2
-        x: 238
-        y: 29
-        width: 89
-        height: 29
+        x: 949
+        y: 113
+        width: 358
+        height: 118
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,20 +395,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c14563216adc91c4480fcb4ac6cc88e6
-      internalID: -1938975134
+      spriteID: f02a836c2cffcf348bc00c8f3ba492cd
+      internalID: -1815492606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_13
+      name: Gui_13
       rect:
         serializedVersion: 2
-        x: 555
-        y: 30
-        width: 39
-        height: 39
+        x: 2221
+        y: 117
+        width: 158
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,20 +416,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 777fe210dce4c0643933d0a052aaa991
-      internalID: 450801884
+      spriteID: 5310aa53393396e429422f186eb77e75
+      internalID: 457523310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2108.w032.n003.33A.p1.33-removebg-preview_14
+      name: Gui_14
       rect:
         serializedVersion: 2
-        x: 606
-        y: 30
-        width: 39
-        height: 39
+        x: 2421
+        y: 117
+        width: 158
+        height: 159
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,8 +437,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 510759c138f11634b96ae9dda6e1176f
-      internalID: -1554966185
+      spriteID: 9112ace108ac1a34aa405fb8b0ad5730
+      internalID: 1945761572
       vertices: []
       indices: 
       edges: []
@@ -446,7 +446,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3f813601b53475b479b5463025d9f688
+    spriteID: 999b8a416dc363e4e870042ff0a3b48c
     internalID: 0
     vertices: []
     indices: 
@@ -454,21 +454,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      2108.w032.n003.33A.p1.33-removebg-preview_2: -1374661926
-      2108.w032.n003.33A.p1.33-removebg-preview_7: 1724977175
-      2108.w032.n003.33A.p1.33-removebg-preview_9: 1422240314
-      2108.w032.n003.33A.p1.33-removebg-preview_4: -1100769392
-      2108.w032.n003.33A.p1.33-removebg-preview_3: 1299157967
-      2108.w032.n003.33A.p1.33-removebg-preview_1: -119529960
-      2108.w032.n003.33A.p1.33-removebg-preview_5: 1737373180
-      2108.w032.n003.33A.p1.33-removebg-preview_8: -1152699028
-      2108.w032.n003.33A.p1.33-removebg-preview_6: 1637369095
-      2108.w032.n003.33A.p1.33-removebg-preview_13: 450801884
-      2108.w032.n003.33A.p1.33-removebg-preview_10: -515618214
-      2108.w032.n003.33A.p1.33-removebg-preview_14: -1554966185
-      2108.w032.n003.33A.p1.33-removebg-preview_11: 1388162718
-      2108.w032.n003.33A.p1.33-removebg-preview_0: -123487843
-      2108.w032.n003.33A.p1.33-removebg-preview_12: -1938975134
+      Gui_11: 837804526
+      Gui_10: 2063729215
+      Gui_1: 1971006735
+      Gui_12: -1815492606
+      Gui_7: -1502595949
+      Gui_9: -26144939
+      Gui_2: -1213387517
+      Gui_8: -1303847893
+      Gui_0: 80795285
+      Gui_5: 1031633600
+      Gui_4: -1698685792
+      Gui_6: -993290879
+      Gui_13: 457523310
+      Gui_14: 1945761572
+      Gui_3: -2042367154
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
